@@ -1,3 +1,8 @@
+# Steps to start up the website
+1. Clone repository to computer 
+2. In nodeflair-task2 folder, run "npm-install"
+3. Run "npm start"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
