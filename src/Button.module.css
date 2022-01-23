@@ -1,0 +1,13 @@
+.button {
+  gap: 2%;
+}
+
+.button button {
+  width: 100px;
+  font-size: medium;
+  font-weight: 540;
+  background-color: #051c33;
+  border-color: #051c33;
+  border-radius: 3px;
+  color: white;
+}

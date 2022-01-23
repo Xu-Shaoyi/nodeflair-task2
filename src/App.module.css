@@ -1,0 +1,7 @@
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 3%;
+  justify-content: center;
+  gap: 2%;
+}
